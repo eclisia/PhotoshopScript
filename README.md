@@ -1,5 +1,5 @@
 # PhotoshopScript
 Batch of PhotoshopScript  
 ***********************************
-![Build passes](https://travis-ci.com/eclisia/PhotoshopScript.svg?branch=main)
+[![Build Status](https://travis-ci.com/eclisia/PhotoshopScript.svg?branch=main)](https://travis-ci.com/eclisia/PhotoshopScript)
 ***********************************
